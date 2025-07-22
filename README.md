@@ -22,7 +22,7 @@ It includes realistic and fictional data to illustrate relational integrity and 
 | `species` | Intelligent species tied to specific planets          |
 
 ## 📊 Entity-Relationship Diagram
-![ER Diagram](./ER-Diagram.png)
+![ER Diagram](ER_Diagram.png)
 
 
 ## 🗃️ Setup Instructions
